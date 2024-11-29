@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -159,7 +158,7 @@
         <div class="section">
             <h2 class="section-title">5. Organizational experience</h2>
             <h3>Paduan suara Sttikom Insan Unggul (2024)</h3>
-            <p>Position: Vokal </p <div class="section">
+            <p>Position: Vokal </p> <div class="section">
         </div>
 
         <div class="section">
@@ -193,6 +192,4 @@
             </ul>
         </div>
 
-</body>
 
-</html>
